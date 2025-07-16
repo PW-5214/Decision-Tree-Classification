@@ -41,12 +41,7 @@ This notebook demonstrates:
     cd decision-tree-classification
     ```
 
-3. Install required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run the Jupyter Notebook:
+3. Run the Jupyter Notebook:
     ```bash
     jupyter notebook "Decision Tree Classification.ipynb"
     ```
@@ -92,11 +87,10 @@ This notebook demonstrates:
 
 ## 📌 Author
 
-**Your Name**  
-*Machine Learning Enthusiast*
+**Prathmesh Wavhal**  
+Connect on [LinkedIn](https://www.linkedin.com/in/prathmesh-wavhal-ab8170330/)  
+Email: [prathmeshwavhal83@gmail.com]
 
 ---
 
-## 📃 License
-
-This project is open source and free to use under the [MIT License](LICENSE).
+---
